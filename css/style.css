@@ -18,8 +18,7 @@ h2, h3 {
 }
 .gallery {
 	padding-top: 20px;
-	display: flex;
-	justify-content: center;
+	padding-left: 100px;
 	box-sizing: border-box;
 }
 .gallery img {
