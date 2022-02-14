@@ -1,6 +1,6 @@
 @font-face{
 	font-family: Radiance;
-	src: url('../valentines-web-gallery/Radiance-SemiBold.otf') format('opentype');
+	src: url('../Radiance-SemiBold.otf') format('opentype');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -15,6 +15,7 @@ h2, h3 {
 	color: dimgray;
 }
 .text{
+	min-width: 450px;
 	border: 1px solid rgba(5, 5, 5, 1.0);
 	background-color: white;
 	box-sizing: border-box;
